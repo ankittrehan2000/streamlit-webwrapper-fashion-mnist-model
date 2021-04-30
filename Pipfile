@@ -5,10 +5,10 @@ name = "pypi"
 
 [packages]
 streamlit = "*"
-opencv-python = "*"
+opencv-python-headless = "*"
 pillow = "*"
-tensorflow = "*"
 gunicorn = "*"
+tensorflow-cpu="*"
 
 [dev-packages]
 
