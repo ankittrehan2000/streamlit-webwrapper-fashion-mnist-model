@@ -8,6 +8,7 @@ streamlit = "*"
 opencv-python = "*"
 pillow = "*"
 gunicorn = "*"
+tensorflow-cpu="*"
 
 [dev-packages]
 
